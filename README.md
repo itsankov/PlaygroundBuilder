@@ -15,7 +15,7 @@ print("test")
  Info
  ====
  
- ivelintsankov.com
+ [Ivelin Tsankov](http://ivelintsankov.com)
  
  
 ```swift
